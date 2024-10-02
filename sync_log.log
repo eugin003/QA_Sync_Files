@@ -1,0 +1,18 @@
+2024-10-01 18:40:07 - File copied: ./Source/file2.txt -> ./Replica/./file2.txt
+2024-10-01 18:40:07 - File copied: ./Source/file1.txt -> ./Replica/./file1.txt
+2024-10-01 18:40:07 - File copied: ./Source/.DS_Store -> ./Replica/./.DS_Store
+2024-10-01 18:40:07 - Directory created: ./Replica/random subfolder
+2024-10-01 18:40:07 - File copied: ./Source/random subfolder/file2.txt -> ./Replica/random subfolder/file2.txt
+2024-10-01 18:41:04 - File updated: ./Source/.DS_Store -> ./Replica/./.DS_Store
+2024-10-01 18:43:33 - File updated: ./Source/.DS_Store -> ./Replica/./.DS_Store
+2024-10-01 18:44:23 - File updated: ./Source/file2.txt -> ./Replica/./file2.txt
+2024-10-01 18:44:23 - File updated: ./Source/file1.txt -> ./Replica/./file1.txt
+2024-10-01 18:44:23 - File updated: ./Source/random subfolder/file2.txt -> ./Replica/random subfolder/file2.txt
+2024-10-01 18:50:05 - File updated: ./Source/random subfolder/file2.txt -> ./Replica/random subfolder/file2.txt
+2024-10-01 18:50:15 - File updated: ./Source/random subfolder/file2.txt -> ./Replica/random subfolder/file2.txt
+2024-10-01 18:50:20 - File copied: ./Source/file2.txt -> ./Replica/./file2.txt
+2024-10-01 18:50:25 - File copied: ./Source/file1.txt -> ./Replica/./file1.txt
+2024-10-01 18:50:25 - File updated: ./Source/.DS_Store -> ./Replica/./.DS_Store
+2024-10-01 18:50:30 - File updated: ./Source/.DS_Store -> ./Replica/./.DS_Store
+2024-10-01 18:50:30 - File removed: ./Replica/file1.txt
+2024-10-01 18:50:40 - File updated: ./Source/random subfolder/file2.txt -> ./Replica/random subfolder/file2.txt
